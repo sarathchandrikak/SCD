@@ -25,3 +25,18 @@ Here are the **3 most common types of SCD**:
 
 🔍 If you're building dimensional models or designing data pipelines — understanding SCD is non-negotiable.
 
+
+**🚀 Implementation** 
+
+### Schema 
+Please refer to schema of sales database
+![image](https://github.com/sarathchandrikak/SCD/blob/main/scd_schema.png)
+
+### SQL queries 
+
+Create tables and insert data into the tables of PostgreSQL 
+Queries to insert into tables are available https://github.com/sarathchandrikak/SCD/blob/main/schema.sql 
+
+### SCD Implementation
+
+SCD type 1, 2, 3 are implemented on employees, items, discounts table and queries corresponding to that are available https://github.com/sarathchandrikak/SCD/blob/main/queries.sql 
